@@ -12,7 +12,7 @@ import org.apache.spark.sql.types._
 import java.io.{BufferedWriter, FileWriter}
 import au.com.bytecode.opencsv.CSVWriter
 
-object Shivani_Shukla_task2 {
+object Task2 {
 
   def main(args: Array[String]): Unit = {
 
