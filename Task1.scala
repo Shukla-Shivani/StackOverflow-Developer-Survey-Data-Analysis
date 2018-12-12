@@ -3,7 +3,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.sql.{SQLContext, functions}
 import org.apache.spark.sql.types._
 
-object Shivani_Shukla_task1 {
+object Task1 {
 
   def main(args: Array[String]): Unit = {
     val input_file_task1 = args(0)
