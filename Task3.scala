@@ -5,7 +5,8 @@ import org.apache.spark.sql.types._
 //import org.apache.spark.implicits._
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.types.LongType
-object Shivani_Shukla_task3 {
+
+object Task3 {
 
   def main(args: Array[String]): Unit = {
     val input_file_task3 = args(0)
